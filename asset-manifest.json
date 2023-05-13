@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/frontendmentor.io-multi_step_form/static/css/main.46e212f4.css",
+    "main.js": "/frontendmentor.io-multi_step_form/static/js/main.0d9f6d2f.js",
+    "static/media/Ubuntu-Regular.ttf": "/frontendmentor.io-multi_step_form/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Medium.ttf": "/frontendmentor.io-multi_step_form/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/frontendmentor.io-multi_step_form/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "static/media/icon-advanced.svg": "/frontendmentor.io-multi_step_form/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
+    "index.html": "/frontendmentor.io-multi_step_form/index.html",
+    "static/media/icon-thank-you.svg": "/frontendmentor.io-multi_step_form/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
+    "static/media/icon-pro.svg": "/frontendmentor.io-multi_step_form/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
+    "static/media/icon-arcade.svg": "/frontendmentor.io-multi_step_form/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
+    "main.46e212f4.css.map": "/frontendmentor.io-multi_step_form/static/css/main.46e212f4.css.map",
+    "main.0d9f6d2f.js.map": "/frontendmentor.io-multi_step_form/static/js/main.0d9f6d2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e212f4.css",
+    "static/js/main.0d9f6d2f.js"
+  ]
+}
